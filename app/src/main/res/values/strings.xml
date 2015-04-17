@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Agenda Contatos</string>
+    <string name="settings_name">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_list">Contatos</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="sair">Sair</string>
+    <string name="usuarios">Usuario</string>
+
+    <!-- Login -->
+    <string name="login_txtUsuario">Usuario:</string>
+    <string name="login_txtSenha">Senha:</string>
+    <string name="login_btnEntrar">Entrar</string>
+    <string name="login_ckbConectado">Manter Conectado?</string>
+
+    <!-- Validações -->
+    <string name="login_valUsuario">Campo usuario é obrigatório.</string>
+    <string name="login_valSenha">Campo senha é obrigatório.</string>
+    <string name="cadastro_valNome">Campo NOME é obrigatório.</string>
+    <string name="cadastro_valEndereco">Campo ENDEREÇO é obrigatório.</string>
+    <string name="cadastro_valTelefone">Campo TELEFONE é obrigatório.</string>
+
+    <!-- Mensagens -->
+    <string name="msg_login_incorreto">Usuário e/ou senha inválido.</string>
+    <string name="mensagem_cadastro">Registro cadastrado com sucesso!</string>
+    <string name="mensagem_atualizar">Registro atualizado com sucesso!</string>
+    <string name="mensagem_excluir">Registro excluido com sucesso!</string>
+    <string name="mensagem_erro">Erro ao salvar!</string>
+
+    <!-- Usuários -->
+    <string name="usuario_txNome">Nome:</string>
+    <string name="usuario_txLogin">Login:</string>
+    <string name="usuario_txSenha">Senha:</string>
+    
+
+</resources>
